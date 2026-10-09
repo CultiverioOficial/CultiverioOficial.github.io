@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https://cultiveriooficial.github.io/sitemap.xml
