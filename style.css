@@ -360,6 +360,11 @@ footer .container {
     font-size: 24px;
 }
 
+.especie {
+  font-style: italic;
+  line-height: 1.5;
+}
+
 .post-meta {
     display: flex;
     flex-direction: column;
